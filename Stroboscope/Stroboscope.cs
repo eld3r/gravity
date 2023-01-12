@@ -62,6 +62,15 @@ public class Stroboscope<TVector> : IStroboscope<TVector>
 
             var force = _atomicForceCalculus.CalcForce(ball.Mass, ballInner.Mass, range);
 
+            if (double.IsInfinity(force))
+            {
+                ball.IsGone = true;
+                return;
+            }
+
+            if (double.IsNaN(force))
+                return;
+
             _superpositionForceCalculus.OverlapForces(force, range, ball, ballInner);
         });
 
@@ -72,10 +81,12 @@ public class Stroboscope<TVector> : IStroboscope<TVector>
 
             _wall.Bounce(ball);
             _speedCalculus.CalcSpeed(ball, timeStrobe);
-            _pathCalculus.CalcNextPosition(ball, timeStrobe);            
-            
+            _pathCalculus.CalcNextPosition(ball, timeStrobe);
+
             ball.Force.Zero();
         });
+
+        _balls.RemoveAll(r => r.IsGone);
 
         strobeCounter++;
     }

@@ -27,4 +27,14 @@ public class TwoDimensionVector : IVector
         X = 0;
         Y = 0;
     }
+
+    public override string ToString()
+    {
+        return $"X={X}; Y={Y}";
+    }
+
+    public bool IsNan()
+    {
+        return double.IsNaN(X) || double.IsNaN(Y);
+    }
 }
