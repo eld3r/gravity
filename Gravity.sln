@@ -3,21 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity", "Gravity\Gravity.csproj", "{ACE7319F-6087-4EC4-B022-DB6D8B268C7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gravity", "Gravity\Gravity.csproj", "{ACE7319F-6087-4EC4-B022-DB6D8B268C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{3AEE8F26-B80C-4DE0-B260-24B2C80F9D42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{3AEE8F26-B80C-4DE0-B260-24B2C80F9D42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ext", "Ext\Ext.csproj", "{1348DA68-96FD-4937-8AAD-0E53F2B34FFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculators", "Calculator\Calculators.csproj", "{D371919B-25E2-4370-91EF-C2A7661D4E40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculators", "Calculator\Calculators.csproj", "{D371919B-25E2-4370-91EF-C2A7661D4E40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strobing", "Stroboscope\Strobing.csproj", "{F8770AAD-7368-4067-B842-4DAE5622BEB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strobing", "Stroboscope\Strobing.csproj", "{F8770AAD-7368-4067-B842-4DAE5622BEB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graphics", "Graphics\Graphics.csproj", "{3E986205-00B4-43E3-88FF-6610FFBBC963}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics", "Graphics\Graphics.csproj", "{3E986205-00B4-43E3-88FF-6610FFBBC963}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gravity.Tests", "Gravity.Tests\Gravity.Tests.csproj", "{9A9AE0FB-4CFE-4307-9764-55952CCFDAC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity.Tests", "Gravity.Tests\Gravity.Tests.csproj", "{9A9AE0FB-4CFE-4307-9764-55952CCFDAC8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jobs", "Jobs\Jobs.csproj", "{B319E28F-F11B-4511-B92B-FEA67A0610B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jobs", "Jobs\Jobs.csproj", "{B319E28F-F11B-4511-B92B-FEA67A0610B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +31,6 @@ Global
 		{3AEE8F26-B80C-4DE0-B260-24B2C80F9D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AEE8F26-B80C-4DE0-B260-24B2C80F9D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AEE8F26-B80C-4DE0-B260-24B2C80F9D42}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1348DA68-96FD-4937-8AAD-0E53F2B34FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1348DA68-96FD-4937-8AAD-0E53F2B34FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1348DA68-96FD-4937-8AAD-0E53F2B34FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1348DA68-96FD-4937-8AAD-0E53F2B34FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D371919B-25E2-4370-91EF-C2A7661D4E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D371919B-25E2-4370-91EF-C2A7661D4E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D371919B-25E2-4370-91EF-C2A7661D4E40}.Release|Any CPU.ActiveCfg = Release|Any CPU

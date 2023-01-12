@@ -9,7 +9,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Calculator\Calculators.csproj" />
     <ProjectReference Include="..\Entities\Entities.csproj" />
-    <ProjectReference Include="..\Ext\Ext.csproj" />
   </ItemGroup>
 
 </Project>
