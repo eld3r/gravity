@@ -17,8 +17,6 @@ public class TwoDimensionVector : IVector
     public double X { get; set; } = 0;
     public double Y { get; set; } = 0;
 
-    public double Z { get; set; } = 0;
-
     public IVector Clone()
     {
         return new TwoDimensionVector() { X = X, Y = Y };
