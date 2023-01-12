@@ -2,9 +2,6 @@
 using Entities;
 using Entities.TwoD;
 
-
-namespace Calculators.Impl.TwoD;
-
 public class DisposingWall : IWall<TwoDimensionVector>
 {
     public void Bounce(Ball<TwoDimensionVector> ball)
