@@ -3,6 +3,7 @@
 project.lock.json
 .DS_Store
 *.pyc
+*.testlog
 nupkg/
 
 # Visual Studio Code
@@ -37,3 +38,5 @@ msbuild.wrn
 
 # Visual Studio
 .vs/
+.vs/Gravity/v17/.suo
+Scenarios/
