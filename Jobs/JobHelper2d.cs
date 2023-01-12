@@ -38,8 +38,8 @@ namespace Jobs
                 filename = filename.Replace(chara, '-');
             }
 
-            Directory.CreateDirectory("dump");
-            using (StreamWriter file = File.CreateText("dump//"+filename))
+            Directory.CreateDirectory(@"..\..\..\..\2dScenarios\dump\");
+            using (StreamWriter file = File.CreateText(@"..\..\..\..\2dScenarios\dump\" + filename))
             {
                 JsonSerializer serializer = new JsonSerializer();
                 serializer.Serialize(file, balls);
