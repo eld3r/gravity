@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o76Foj+xRjS7xV0de7E3OxTpIcUnBAjK8JvuuaW5anDWoHuSU7ThAmFHP3Kz0F9N4TP0rtahKRVKy4fHh7PeOw==",
+  "dgSpecHash": "mzyXbCFzxT5q0liteNfG7tyq9DihYRMy7WUsbrBeVKe53Yj+0nApOB9tiQVZ4YOuLOih54+fK2NSqysWjknCOA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Gravity\\Gravity\\Gravity.csproj",
+  "projectFilePath": "C:\\dev\\Gravity-git\\Gravity\\Gravity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SBabin\\.nuget\\packages\\blotch3d\\1.0.5\\blotch3d.1.0.5.nupkg.sha512",
     "C:\\Users\\SBabin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgpNnm/rXjhK0EObvQadbIytDpKh9nhoPHJwD0taWX8BLR5MDMvin1NLgCherRw4T1ZNJ4clCxHIoApPNN4xfw==",
+  "dgSpecHash": "gMS9mC7HDxrVS9TQ5XyoZYjn1R5dE/a1T/v+Hh18oELEmyw/a9I5HzbVOOJYzskqEpy/Qxk4UPwFLUd1Tvu03Q==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Gravity\\Calculator\\Calculators.csproj",
+  "projectFilePath": "C:\\dev\\Gravity-git\\Calculator\\Calculators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

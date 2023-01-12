@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Gravity\\Ext\\Ext.csproj": {}
+    "C:\\dev\\Gravity-git\\Ext\\Ext.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Gravity\\Entities\\Entities.csproj": {
+    "C:\\dev\\Gravity-git\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Gravity\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\dev\\Gravity-git\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\dev\\Gravity\\Entities\\Entities.csproj",
+        "projectPath": "C:\\dev\\Gravity-git\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\SBabin\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Gravity\\Entities\\obj\\",
+        "outputPath": "C:\\dev\\Gravity-git\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\dev\\Gravity\\Ext\\Ext.csproj": {
+    "C:\\dev\\Gravity-git\\Ext\\Ext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Gravity\\Ext\\Ext.csproj",
+        "projectUniqueName": "C:\\dev\\Gravity-git\\Ext\\Ext.csproj",
         "projectName": "Ext",
-        "projectPath": "C:\\dev\\Gravity\\Ext\\Ext.csproj",
+        "projectPath": "C:\\dev\\Gravity-git\\Ext\\Ext.csproj",
         "packagesPath": "C:\\Users\\SBabin\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Gravity\\Ext\\obj\\",
+        "outputPath": "C:\\dev\\Gravity-git\\Ext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\dev\\Gravity\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\dev\\Gravity\\Entities\\Entities.csproj"
+              "C:\\dev\\Gravity-git\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\dev\\Gravity-git\\Entities\\Entities.csproj"
               }
             }
           }

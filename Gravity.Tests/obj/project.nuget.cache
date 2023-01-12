@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tZ1UPKuLs37Kc1YefOz/kByosWspn1S01vmdxJCcLxYCDUOYxoOYMXGrm7EpDwdvfRNYzs0tnqHsjzd5MzeVuw==",
+  "dgSpecHash": "srrGQEHrWl2r2XDYE1v25I7bNFGcj+vol00xTKf5Yhveqf6/Dse2vtLPR7P7ozw0rEPH/1aqvuPHsqtMQtpXsA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Gravity\\Gravity.Tests\\Gravity.Tests.csproj",
+  "projectFilePath": "C:\\dev\\Gravity-git\\Gravity.Tests\\Gravity.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SBabin\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\SBabin\\.nuget\\packages\\diffengine\\10.0.0\\diffengine.10.0.0.nupkg.sha512",

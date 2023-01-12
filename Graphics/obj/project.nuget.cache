@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IMsJOMcJeTE2i+2+lZfIRG71S6ErgE/KrJrZT4vXTxcj2x6J901OMm39MrruQQXwe5zXL+de2Ulmrs+gse3bFA==",
+  "dgSpecHash": "2yw/tZ772BakiQThFHkYsOJWqVkEhkt8hZ5ZBaI/CV6b5Mhtvha4cVOhoCj3y2yvzmonO8sjkv9c4E9jG0vdJw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Gravity\\Graphics\\Graphics.csproj",
+  "projectFilePath": "C:\\dev\\Gravity-git\\Graphics\\Graphics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SBabin\\.nuget\\packages\\blotch3d\\1.0.5\\blotch3d.1.0.5.nupkg.sha512",
     "C:\\Users\\SBabin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"

@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Gravity\\Ext\\Ext.csproj",
+      "projectUniqueName": "C:\\dev\\Gravity-git\\Ext\\Ext.csproj",
       "projectName": "Ext",
-      "projectPath": "C:\\dev\\Gravity\\Ext\\Ext.csproj",
+      "projectPath": "C:\\dev\\Gravity-git\\Ext\\Ext.csproj",
       "packagesPath": "C:\\Users\\SBabin\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Gravity\\Ext\\obj\\",
+      "outputPath": "C:\\dev\\Gravity-git\\Ext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,8 +60,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\dev\\Gravity\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\dev\\Gravity\\Entities\\Entities.csproj"
+            "C:\\dev\\Gravity-git\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\dev\\Gravity-git\\Entities\\Entities.csproj"
             }
           }
         }

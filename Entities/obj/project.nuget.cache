@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iE26xUwhC5w02R5x7IK56k9mQ7PboZla1KbtyYjN6h0/vlexHeOtRQ9JtEQzUFzMfZvP2HAu5dqu8KChvgx80A==",
+  "dgSpecHash": "xaZ9qoqSKujn6mTc3ezQxMuAT5oJ8ZF7LEa2Apc7NkB8Vx70eYZ1Z/DyvxWz32FClWRrHggwPyuem9nOGDgsUA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Gravity\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\dev\\Gravity-git\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

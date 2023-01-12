@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "14ZFlEtfFwH3jaQh0Lk3+/S+0/ysZlf/pryGWLw8ELYz673qLyM9kAFMcoohYF6tKWzbB+e0XsxxupN0e1yBHA==",
+  "dgSpecHash": "Xuxj2smn53IqM3LJ0zfx35LZPQsj1MjNr4huZltJLqB3o82f8NbuSfM7lI9OsB+wb7EE5ci7op0EMQ5gyuFIRw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Gravity\\Stroboscope\\Strobing.csproj",
+  "projectFilePath": "C:\\dev\\Gravity-git\\Stroboscope\\Strobing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
