@@ -58,20 +58,21 @@ public class Stroboscope<TVector> : IStroboscope<TVector>
 
             var range = _rangeCalculus.CalcRange(ball.Position, ballInner.Position);
 
+            if (range == 0)
+            {
+                ballInner.IsGone = true;
+                return;
+            }
+
             _collisionChecker.HandleCollision(range, ball, ballInner);
 
             var force = _atomicForceCalculus.CalcForce(ball.Mass, ballInner.Mass, range);
-
-            if (double.IsInfinity(force))
-            {
-                ball.IsGone = true;
-                return;
-            }
 
             if (double.IsNaN(force))
                 return;
 
             _superpositionForceCalculus.OverlapForces(force, range, ball, ballInner);
+
         });
 
         _combinator.Enumerate(_balls, (ball) =>
