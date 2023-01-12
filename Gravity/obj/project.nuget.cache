@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o76Foj+xRjS7xV0de7E3OxTpIcUnBAjK8JvuuaW5anDWoHuSU7ThAmFHP3Kz0F9N4TP0rtahKRVKy4fHh7PeOw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Gravity\\Gravity\\Gravity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SBabin\\.nuget\\packages\\blotch3d\\1.0.5\\blotch3d.1.0.5.nupkg.sha512",
+    "C:\\Users\\SBabin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\SBabin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SBabin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\SBabin\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

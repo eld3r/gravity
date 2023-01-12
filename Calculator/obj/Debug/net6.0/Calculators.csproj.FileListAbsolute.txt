@@ -1,0 +1,15 @@
+C:\dev\Gravity\Calculator\bin\Debug\net6.0\Calculators.deps.json
+C:\dev\Gravity\Calculator\bin\Debug\net6.0\Calculators.dll
+C:\dev\Gravity\Calculator\bin\Debug\net6.0\Calculators.pdb
+C:\dev\Gravity\Calculator\bin\Debug\net6.0\Entities.dll
+C:\dev\Gravity\Calculator\bin\Debug\net6.0\Entities.pdb
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.csproj.AssemblyReference.cache
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.AssemblyInfoInputs.cache
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.AssemblyInfo.cs
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.csproj.CoreCompileInputs.cache
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.csproj.CopyComplete
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.dll
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\refint\Calculators.dll
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\Calculators.pdb
+C:\dev\Gravity\Calculator\obj\Debug\net6.0\ref\Calculators.dll

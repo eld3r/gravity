@@ -1,0 +1,15 @@
+C:\dev\Gravity\Ext\bin\Debug\net6.0\Ext.deps.json
+C:\dev\Gravity\Ext\bin\Debug\net6.0\Ext.dll
+C:\dev\Gravity\Ext\bin\Debug\net6.0\Ext.pdb
+C:\dev\Gravity\Ext\bin\Debug\net6.0\Entities.dll
+C:\dev\Gravity\Ext\bin\Debug\net6.0\Entities.pdb
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.csproj.AssemblyReference.cache
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.AssemblyInfoInputs.cache
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.AssemblyInfo.cs
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.csproj.CoreCompileInputs.cache
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.csproj.CopyComplete
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.dll
+C:\dev\Gravity\Ext\obj\Debug\net6.0\refint\Ext.dll
+C:\dev\Gravity\Ext\obj\Debug\net6.0\Ext.pdb
+C:\dev\Gravity\Ext\obj\Debug\net6.0\ref\Ext.dll

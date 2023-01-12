@@ -1,0 +1,1124 @@
+[
+    {
+        "Position": {
+            "X": 16.0,
+            "Y": 8.0,
+            "Z": 0.0
+        },
+        "Mass": 5950.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5217838056841017
+    },
+    {
+        "Position": {
+            "X": 36.0,
+            "Y": 36.0,
+            "Z": 0.0
+        },
+        "Mass": 10003.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6204332015421453
+    },
+    {
+        "Position": {
+            "X": 38.0,
+            "Y": 33.0,
+            "Z": 0.0
+        },
+        "Mass": 2302.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.3802069464173503
+    },
+    {
+        "Position": {
+            "X": -40.0,
+            "Y": 9.0,
+            "Z": 0.0
+        },
+        "Mass": 3339.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.43038495420640993
+    },
+    {
+        "Position": {
+            "X": -55.0,
+            "Y": 35.0,
+            "Z": 0.0
+        },
+        "Mass": 17642.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7496080009521345
+    },
+    {
+        "Position": {
+            "X": 54.0,
+            "Y": -38.0,
+            "Z": 0.0
+        },
+        "Mass": 9586.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6116891103369209
+    },
+    {
+        "Position": {
+            "X": 1.0,
+            "Y": 38.0,
+            "Z": 0.0
+        },
+        "Mass": 11266.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6455177515508764
+    },
+    {
+        "Position": {
+            "X": -43.0,
+            "Y": 9.0,
+            "Z": 0.0
+        },
+        "Mass": 16671.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7355950948950333
+    },
+    {
+        "Position": {
+            "X": -26.0,
+            "Y": 39.0,
+            "Z": 0.0
+        },
+        "Mass": 10110.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6226375749735352
+    },
+    {
+        "Position": {
+            "X": -41.0,
+            "Y": -29.0,
+            "Z": 0.0
+        },
+        "Mass": 3712.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.44584879439838226
+    },
+    {
+        "Position": {
+            "X": -36.0,
+            "Y": -26.0,
+            "Z": 0.0
+        },
+        "Mass": 14511.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7023453662212947
+    },
+    {
+        "Position": {
+            "X": 0.0,
+            "Y": -24.0,
+            "Z": 0.0
+        },
+        "Mass": 13483.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6853521596032276
+    },
+    {
+        "Position": {
+            "X": -28.0,
+            "Y": 27.0,
+            "Z": 0.0
+        },
+        "Mass": 12247.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6637351945625423
+    },
+    {
+        "Position": {
+            "X": -56.0,
+            "Y": 40.0,
+            "Z": 0.0
+        },
+        "Mass": 10656.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6336503484791516
+    },
+    {
+        "Position": {
+            "X": -2.0,
+            "Y": -12.0,
+            "Z": 0.0
+        },
+        "Mass": 9145.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6021613047447442
+    },
+    {
+        "Position": {
+            "X": 67.0,
+            "Y": 6.0,
+            "Z": 0.0
+        },
+        "Mass": 3760.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.4477623319855269
+    },
+    {
+        "Position": {
+            "X": 35.0,
+            "Y": -29.0,
+            "Z": 0.0
+        },
+        "Mass": 19153.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7704253133254673
+    },
+    {
+        "Position": {
+            "X": 41.0,
+            "Y": 11.0,
+            "Z": 0.0
+        },
+        "Mass": 16321.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7304108160813457
+    },
+    {
+        "Position": {
+            "X": -12.0,
+            "Y": -3.0,
+            "Z": 0.0
+        },
+        "Mass": 8648.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5910490193305092
+    },
+    {
+        "Position": {
+            "X": 60.0,
+            "Y": 7.0,
+            "Z": 0.0
+        },
+        "Mass": 6373.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5338667996537838
+    },
+    {
+        "Position": {
+            "X": 73.0,
+            "Y": -22.0,
+            "Z": 0.0
+        },
+        "Mass": 16038.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.726164494552483
+    },
+    {
+        "Position": {
+            "X": 6.0,
+            "Y": 26.0,
+            "Z": 0.0
+        },
+        "Mass": 4416.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.4724196595959431
+    },
+    {
+        "Position": {
+            "X": -21.0,
+            "Y": 41.0,
+            "Z": 0.0
+        },
+        "Mass": 3983.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.4564449181905605
+    },
+    {
+        "Position": {
+            "X": 73.0,
+            "Y": -5.0,
+            "Z": 0.0
+        },
+        "Mass": 12419.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6668279830686428
+    },
+    {
+        "Position": {
+            "X": -45.0,
+            "Y": 34.0,
+            "Z": 0.0
+        },
+        "Mass": 3993.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.45682659318919777
+    },
+    {
+        "Position": {
+            "X": -71.0,
+            "Y": 32.0,
+            "Z": 0.0
+        },
+        "Mass": 4707.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.48257668993696917
+    },
+    {
+        "Position": {
+            "X": -61.0,
+            "Y": 20.0,
+            "Z": 0.0
+        },
+        "Mass": 6971.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5500683220305027
+    },
+    {
+        "Position": {
+            "X": -74.0,
+            "Y": -15.0,
+            "Z": 0.0
+        },
+        "Mass": 16046.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7262852151389808
+    },
+    {
+        "Position": {
+            "X": 47.0,
+            "Y": -23.0,
+            "Z": 0.0
+        },
+        "Mass": 16196.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7285413342994386
+    },
+    {
+        "Position": {
+            "X": -40.0,
+            "Y": 49.0,
+            "Z": 0.0
+        },
+        "Mass": 17151.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7425882784912546
+    },
+    {
+        "Position": {
+            "X": 77.0,
+            "Y": -24.0,
+            "Z": 0.0
+        },
+        "Mass": 12679.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.6714493762491524
+    },
+    {
+        "Position": {
+            "X": -74.0,
+            "Y": 13.0,
+            "Z": 0.0
+        },
+        "Mass": 1524.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.33137005747804127
+    },
+    {
+        "Position": {
+            "X": -78.0,
+            "Y": 24.0,
+            "Z": 0.0
+        },
+        "Mass": 5048.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.49395955364832417
+    },
+    {
+        "Position": {
+            "X": -58.0,
+            "Y": -23.0,
+            "Z": 0.0
+        },
+        "Mass": 4958.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.49100635699866807
+    },
+    {
+        "Position": {
+            "X": 64.0,
+            "Y": -28.0,
+            "Z": 0.0
+        },
+        "Mass": 19608.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7764783900756308
+    },
+    {
+        "Position": {
+            "X": -21.0,
+            "Y": -42.0,
+            "Z": 0.0
+        },
+        "Mass": 8802.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5945367829812676
+    },
+    {
+        "Position": {
+            "X": -25.0,
+            "Y": -4.0,
+            "Z": 0.0
+        },
+        "Mass": 17800.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.751839158412338
+    },
+    {
+        "Position": {
+            "X": -19.0,
+            "Y": 22.0,
+            "Z": 0.0
+        },
+        "Mass": 7074.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5527642652285027
+    },
+    {
+        "Position": {
+            "X": -3.0,
+            "Y": -20.0,
+            "Z": 0.0
+        },
+        "Mass": 2796.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.4056616907986167
+    },
+    {
+        "Position": {
+            "X": -18.0,
+            "Y": 24.0,
+            "Z": 0.0
+        },
+        "Mass": 7708.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5688077557805247
+    },
+    {
+        "Position": {
+            "X": -4.0,
+            "Y": -37.0,
+            "Z": 0.0
+        },
+        "Mass": 15989.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7254242035944278
+    },
+    {
+        "Position": {
+            "X": -27.0,
+            "Y": -32.0,
+            "Z": 0.0
+        },
+        "Mass": 6858.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5470799111272616
+    },
+    {
+        "Position": {
+            "X": -34.0,
+            "Y": -39.0,
+            "Z": 0.0
+        },
+        "Mass": 1827.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.3520176639502185
+    },
+    {
+        "Position": {
+            "X": 22.0,
+            "Y": 22.0,
+            "Z": 0.0
+        },
+        "Mass": 8215.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5810151587947143
+    },
+    {
+        "Position": {
+            "X": 78.0,
+            "Y": -23.0,
+            "Z": 0.0
+        },
+        "Mass": 6567.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.5392298759344575
+    },
+    {
+        "Position": {
+            "X": -19.0,
+            "Y": 18.0,
+            "Z": 0.0
+        },
+        "Mass": 16216.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7288410962384232
+    },
+    {
+        "Position": {
+            "X": -64.0,
+            "Y": -9.0,
+            "Z": 0.0
+        },
+        "Mass": 19024.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7686917497241785
+    },
+    {
+        "Position": {
+            "X": 44.0,
+            "Y": 32.0,
+            "Z": 0.0
+        },
+        "Mass": 4753.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.4841436189629274
+    },
+    {
+        "Position": {
+            "X": -24.0,
+            "Y": -6.0,
+            "Z": 0.0
+        },
+        "Mass": 17729.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.750838190020506
+    },
+    {
+        "Position": {
+            "X": 68.0,
+            "Y": -10.0,
+            "Z": 0.0
+        },
+        "Mass": 18870.0,
+        "Velocity": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 9999.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 0.7666119312489327
+    },
+    {
+        "Position": {
+            "X": -50.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Mass": 10000000000.0,
+        "Velocity": {
+            "X": 0.1,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Force": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+        },
+        "Density": 100000000.0,
+        "IsGone": false,
+        "BounceCount": 0,
+        "Radius": 2.8794119114848606
+    }
+]

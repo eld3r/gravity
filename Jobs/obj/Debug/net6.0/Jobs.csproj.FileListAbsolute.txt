@@ -1,0 +1,15 @@
+C:\dev\Gravity\Jobs\bin\Debug\net6.0\Jobs.deps.json
+C:\dev\Gravity\Jobs\bin\Debug\net6.0\Jobs.dll
+C:\dev\Gravity\Jobs\bin\Debug\net6.0\Jobs.pdb
+C:\dev\Gravity\Jobs\bin\Debug\net6.0\Entities.dll
+C:\dev\Gravity\Jobs\bin\Debug\net6.0\Entities.pdb
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.csproj.AssemblyReference.cache
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.AssemblyInfoInputs.cache
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.AssemblyInfo.cs
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.csproj.CoreCompileInputs.cache
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.csproj.CopyComplete
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.dll
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\refint\Jobs.dll
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\Jobs.pdb
+C:\dev\Gravity\Jobs\obj\Debug\net6.0\ref\Jobs.dll
