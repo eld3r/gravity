@@ -12,7 +12,7 @@ namespace BlotchExample
 	/// <summary>
 	/// The 3D window. This must inherit from BlWindow3D. See BlWindow3D for details.
 	/// </summary>
-	public class Example : BlWindow3D
+	public class Blotch3dGraphics : BlWindow3D
 	{
 		/// <summary>
 		/// This will be the torus model we draw in the window

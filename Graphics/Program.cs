@@ -1,4 +1,4 @@
 ﻿using BlotchExample;
 
-using (var win = new Example())
+using (var win = new Blotch3dGraphics())
     win.Run();

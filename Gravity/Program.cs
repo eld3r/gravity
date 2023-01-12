@@ -32,15 +32,15 @@ int i = 0;
 
 var step = 3.0d;
 
-using (var win = new Example())
+using (var graphics = new Blotch3dGraphics())
 {
-    win.SetStep(step);
-    win.AdaptDelegate = () =>
+    graphics.SetStep(step);
+    graphics.AdaptDelegate = () =>
     {
         stroboscope.Step(step);
-        win.Adapt(balls);
+        graphics.Adapt(balls);
         
         i++;
     };
-    win.Run();
+    graphics.Run();
 }
