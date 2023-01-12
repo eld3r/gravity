@@ -1,4 +1,5 @@
 using Calculators.Impl.TwoD;
+using Calculators.Impl.TwoD.Collision;
 using Entities;
 using Entities.TwoD;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -10,7 +11,7 @@ namespace Gravity.Tests
     public class ImpulseConstCollisionCalculatorTests
     {
         static VectorOperator vectorOperator;
-        static PulseConstCollisionCalculus target;
+        static ImpulseConstCollisionCalculus target;
 
         static Ball<TwoDimensionVector> ball0;
         static Ball<TwoDimensionVector> ball1;
@@ -19,7 +20,7 @@ namespace Gravity.Tests
         public static void ClassInit(TestContext ctx)
         {
             vectorOperator = new VectorOperator();
-            target = new PulseConstCollisionCalculus();
+            target = new ImpulseConstCollisionCalculus();
 
             ball0 = new Ball<TwoDimensionVector>();
             ball1 = new Ball<TwoDimensionVector>();

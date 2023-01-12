@@ -1,4 +1,5 @@
 using Calculators.Impl.TwoD;
+using Calculators.Impl.TwoD.Collision;
 using Entities;
 using Entities.TwoD;
 using Microsoft.VisualStudio.TestTools.UnitTesting;

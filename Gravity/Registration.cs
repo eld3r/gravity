@@ -6,6 +6,8 @@ using Entities.TwoD;
 using Microsoft.Extensions.DependencyInjection;
 using Strobing;
 using Strobing.Combinators;
+using Calculators.Impl.TwoD.Collision;
+using Calculators.Impl.TwoD.Walls;
 
 namespace Gravity
 {
@@ -21,7 +23,7 @@ namespace Gravity
             .AddSingleton<IVectorOperator<TwoDimensionVector>, VectorOperator>()
             .AddSingleton<ISpeedCalculus<TwoDimensionVector>, SpeedCalculus>()
             .AddSingleton<IPathCalculus<TwoDimensionVector>, PathCalculus>()
-            .AddSingleton<ICollisionCalculus<TwoDimensionVector>, PulseConstCollisionCalculus>()
+            .AddSingleton<ICollisionCalculus<TwoDimensionVector>, ImpulseConstCollisionCalculus>()
             .AddSingleton<IWall<TwoDimensionVector>, NoWalls>()
             ;
     }

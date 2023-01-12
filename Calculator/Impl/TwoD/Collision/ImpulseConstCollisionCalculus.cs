@@ -2,12 +2,10 @@
 using Entities;
 using Entities.TwoD;
 
-namespace Calculators.Impl.TwoD;
+namespace Calculators.Impl.TwoD.Collision;
 
-public class PulseConstCollisionCalculus : ICollisionCalculus<TwoDimensionVector>
+public class ImpulseConstCollisionCalculus : ICollisionCalculus<TwoDimensionVector>
 {
-    int counter;
-
     public void HandleCollision(double range, Ball<TwoDimensionVector> ball, Ball<TwoDimensionVector> inner)
     {
         if (range > ball.Radius + inner.Radius)

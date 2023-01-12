@@ -2,7 +2,7 @@
 using Entities;
 using Entities.TwoD;
 
-namespace Calculators.Impl.TwoD;
+namespace Calculators.Impl.TwoD.Collision;
 
 //TODO: maybe abstract type
 public class SimpleCollisionCalculus : ICollisionCalculus<TwoDimensionVector>
