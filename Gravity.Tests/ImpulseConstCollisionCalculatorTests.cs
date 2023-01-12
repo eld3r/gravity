@@ -65,7 +65,6 @@ namespace Gravity.Tests
             target.HandleCollision(0, ball0, ball1);
 
             ball0.Velocity.X.ShouldBe(0.1d * 5, 1E-8);
-            //TODO Epsilon
             ball1.Velocity.X.ShouldBe(-0.1d / 5, 1E-8);
         }
 
