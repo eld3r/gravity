@@ -39,4 +39,4 @@ msbuild.wrn
 # Visual Studio
 .vs/
 .vs/Gravity/v17/.suo
-Scenarios/
+2dScenarios/
