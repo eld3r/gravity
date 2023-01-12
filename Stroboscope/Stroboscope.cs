@@ -51,8 +51,13 @@ public class Stroboscope<TVector> : IStroboscope<TVector>
         if (_balls == null)
             throw new Exception("Maybe forgot to init Stroboscope?");
 
-        _combinator.Combine(_balls, (ball, ballInner) =>
+        _combinator.Enumerate(_balls, (ball) =>
         {
+            ball.Force.Zero();
+        });
+
+        _combinator.Combine(_balls, (ball, ballInner) =>
+        {            
             if (ball.IsGone || ballInner.IsGone)
                 return;
 
@@ -83,8 +88,6 @@ public class Stroboscope<TVector> : IStroboscope<TVector>
             _wall.Bounce(ball);
             _speedCalculus.CalcSpeed(ball, timeStrobe);
             _pathCalculus.CalcNextPosition(ball, timeStrobe);
-
-            ball.Force.Zero();
         });
 
         _balls.RemoveAll(r => r.IsGone);

@@ -123,6 +123,12 @@ Frametime: {framesw.ElapsedMilliseconds}
 LogicFrametime: {logicsw.ElapsedMilliseconds}
 Total time: {_timer.Elapsed}
 fps: {_frameCount / _timer.Elapsed.TotalSeconds}
+max v: 
+{_balls.Max(m=>m.Velocity.X)} 
+{_balls.Max(m => m.Velocity.Y)}
+max f: 
+{_balls.Max(m => m.Force.X)}
+{_balls.Max(m => m.Force.Y)}
 ";
 
                 Graphics.DrawText(MyHud, Font, new Vector2(50, 50));
