@@ -5,13 +5,13 @@ using Entities.TwoD;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Shouldly;
 
-namespace Gravity.Tests;
+namespace Gravity.Tests.UnitTests;
 
 [TestClass]
-public class SimpleCollisionCalculatorTests
+public class ImpulseConstCollisionCalculatorTests
 {
     static VectorOperator vectorOperator;
-    static SimpleCollisionCalculus target;
+    static ImpulseConstCollisionCalculus target;
 
     static Ball<TwoDimensionVector> ball0;
     static Ball<TwoDimensionVector> ball1;
@@ -20,22 +20,23 @@ public class SimpleCollisionCalculatorTests
     public static void ClassInit(TestContext ctx)
     {
         vectorOperator = new VectorOperator();
-        target = new SimpleCollisionCalculus(vectorOperator);
+        target = new ImpulseConstCollisionCalculus();
 
         ball0 = new Ball<TwoDimensionVector>();
         ball1 = new Ball<TwoDimensionVector>();
     }
+
 
     [TestMethod]
     public void CollisionTest_X()
     {
 
 
-        ball0.Position = new TwoDimensionVector() {};
+        ball0.Position = new TwoDimensionVector() { };
         ball0.Mass = 50;
         ball0.Velocity.X = -0.1;
 
-        ball1.Position = new TwoDimensionVector() {};
+        ball1.Position = new TwoDimensionVector() { };
         ball1.Mass = 50;
         ball1.Velocity.X = 0.1;
 
@@ -54,11 +55,11 @@ public class SimpleCollisionCalculatorTests
         Ball<TwoDimensionVector> ball0 = new Ball<TwoDimensionVector>();
         Ball<TwoDimensionVector> ball1 = new Ball<TwoDimensionVector>();
 
-        ball0.Position = new TwoDimensionVector() {  };
+        ball0.Position = new TwoDimensionVector() { };
         ball0.Mass = 50;
         ball0.Velocity.X = -0.1;
 
-        ball1.Position = new TwoDimensionVector() {  };
+        ball1.Position = new TwoDimensionVector() { };
         ball1.Mass = 250;
         ball1.Velocity.X = 0.1;
 
@@ -77,7 +78,7 @@ public class SimpleCollisionCalculatorTests
         Ball<TwoDimensionVector> ball0 = new Ball<TwoDimensionVector>();
         Ball<TwoDimensionVector> ball1 = new Ball<TwoDimensionVector>();
 
-        ball0.Position = new TwoDimensionVector() {  };
+        ball0.Position = new TwoDimensionVector() { };
         ball0.Mass = 50;
         ball0.Velocity.X = -0.1;
         ball0.Velocity.Y = -0.1;
@@ -121,12 +122,12 @@ public class SimpleCollisionCalculatorTests
     public void CollisionTest_X_Billiard()
     {
 
-        ball0.Position = new TwoDimensionVector() {};
+        ball0.Position = new TwoDimensionVector() { };
         ball0.Mass = 50;
         ball0.Velocity.X = -0.5;
         ball0.Velocity.Y = 0;
 
-        ball1.Position = new TwoDimensionVector() {};
+        ball1.Position = new TwoDimensionVector() { };
         ball1.Mass = 50;
         ball1.Velocity.X = 0;
         ball1.Velocity.Y = 0;
@@ -138,12 +139,11 @@ public class SimpleCollisionCalculatorTests
 
         target.HandleCollision(0, ball0, ball1);
 
-        ball0.Velocity.X.ShouldBe(-0.5d , 1E-8);
+        ball0.Velocity.X.ShouldBe(-0.5d, 1E-8);
         ball1.Velocity.X.ShouldBe(-0d, 1E-8);
     }
 
     [TestMethod]
-    [Ignore("Wrong calculations")]
     public void CollisionTest_X_StrangeBug()
     {
 
@@ -159,12 +159,12 @@ public class SimpleCollisionCalculatorTests
 
         target.HandleCollision(0, ball0, ball1);
 
-        ball0.Velocity.X.ShouldBe(-0.3, 1E-8);
-        ball1.Velocity.X.ShouldBe(-0.1, 1E-8);
-    }        
-    
+        ball0.Velocity.X.ShouldBe(0.1, 1E-8);
+        ball1.Velocity.X.ShouldBe(-0.3, 1E-8);
+    }
+
     [TestMethod]
-    public void CollisionTest_X_del()
+    public void CollisionTest_X_EqualImpulses()
     {
 
         ball0.Position = new TwoDimensionVector() { X = 2, Y = 0 };
