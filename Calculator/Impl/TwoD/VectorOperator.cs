@@ -2,53 +2,50 @@
 using Entities.TwoD;
 
 
-namespace Calculators.Impl.TwoD
+namespace Calculators.Impl.TwoD;
+
+public class VectorOperator : IVectorOperator<TwoDimensionVector>
 {
-    public class VectorOperator : IVectorOperator<TwoDimensionVector>
+    public void Append(TwoDimensionVector vector, TwoDimensionVector vector1)
     {
-        public void Append(TwoDimensionVector vector, TwoDimensionVector vector1)
-        {
-            vector.X += vector1.X;
-            vector.Y += vector1.Y;
-        }
+        vector.X += vector1.X;
+        vector.Y += vector1.Y;
+    }
 
-        public TwoDimensionVector Sum(TwoDimensionVector vector, TwoDimensionVector vector1)
-        {
-            TwoDimensionVector result = new TwoDimensionVector();
+    public TwoDimensionVector Sum(TwoDimensionVector vector, TwoDimensionVector vector1)
+    {
+        TwoDimensionVector result = new TwoDimensionVector();
 
-            result.X = vector.X + vector1.X;
-            result.Y = vector.Y + vector1.Y;
+        result.X = vector.X + vector1.X;
+        result.Y = vector.Y + vector1.Y;
 
-            return result;
-        }
+        return result;
+    }
 
-        public TwoDimensionVector Invert(TwoDimensionVector vector)
-        {
-            var result = (TwoDimensionVector)vector.Clone();
-            result.X *= -1;
-            result.Y *= -1;
+    public TwoDimensionVector Invert(TwoDimensionVector vector)
+    {
+        var result = (TwoDimensionVector)vector.Clone();
+        result.X *= -1;
+        result.Y *= -1;
 
-            return result;
-        }
+        return result;
+    }
 
-        public TwoDimensionVector MultiplyScalar(TwoDimensionVector vector, double factor)
-        {
-            var result = (TwoDimensionVector)vector.Clone();
-            result.X *= factor;
-            result.Y *= factor;
+    public TwoDimensionVector MultiplyScalar(TwoDimensionVector vector, double factor)
+    {
+        var result = (TwoDimensionVector)vector.Clone();
+        result.X *= factor;
+        result.Y *= factor;
 
-            return result;
-        }
+        return result;
+    }
 
-        public TwoDimensionVector MultiplyVector(TwoDimensionVector vector, double factor)
-        {
-            var result = new TwoDimensionVector();
-            result.X = vector.X * factor;
-            result.Y = vector.Y * factor;
+    public TwoDimensionVector MultiplyVector(TwoDimensionVector vector, double factor)
+    {
+        var result = new TwoDimensionVector();
+        result.X = vector.X * factor;
+        result.Y = vector.Y * factor;
 
-            return result;
-        }
-
-
+        return result;
     }
 }
